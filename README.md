@@ -45,7 +45,7 @@ docker-compose ps
 ```
 docker-compose exec app composer install
 ```
-### 9- generate key
+### 7- generate key
 ```
 docker-compose exec app php artisan key:generate
 ```
